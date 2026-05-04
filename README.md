@@ -2,26 +2,20 @@
 
 # 👋 Hey, I'm Darshan!  
 
- !Here’s a little about me and what I do
-
-I’m passionate about **problem solving, data structures & algorithms (DSA), and Machine Learning**  
-Currently, I’m diving deeper into **LeetCode challenges** and expanding my knowledge in .  
+Aspiring Systems & Backend Engineer
+⚙️ Focused on Backend Systems, Cloud Computing, and Low-Level Design
 
 ---
 
 ## 🔧 Technologies & Tools
 - 💻 Languages: **C++, Python, SQL**
-- ⚡ Competitive Programming: **LeetCode, Codeforces, HackerRank**
-- 🛠 Frameworks/Libraries: **STL, Django**
+- 🛠 Machine Learning:PyTorch, Scikit-Learn, Gymnasium (RL)
 - 📂 Databases: **MySQL, MongoDB**
-- ☁️ Other Skills: **Git, GitHub**
-
+- concepts: OS, High level design ,OOPS,Networks
+- ☁️ Other Skills: **Git, GitHub, Jira,CloudSim-plus**
 ---
 
-## 📚 Current Focus
-- Solving **LeetCode problems** daily (DSA grind 💪)  
-- Learning **advanced C++ concepts** and STL tricks  
-- Working on personal projects (will be uploaded soon!)  
+ 
 
 ---
 
@@ -36,7 +30,7 @@ Currently, I’m diving deeper into **LeetCode challenges** and expanding my kno
 ---
 
 ## 🤝 Connect With Me
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn]: (https://www.linkedin.com/in/darshankagadal)  
 - 🐦 [Twitter](#)  
 - ✉️ Email: **darshank2777@gmail.com**
 
