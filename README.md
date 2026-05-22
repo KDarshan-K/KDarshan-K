@@ -8,7 +8,7 @@ Aspiring Systems & Backend Engineer
 ---
 
 ## 🔧 Technologies & Tools
-- 💻 Languages: **C++, Python, SQL**
+- 💻 Languages: **C++,C,Python,SQL**
 - 🛠 Machine Learning:PyTorch, Scikit-Learn, Gymnasium (RL)
 - 📂 Databases: **MySQL, MongoDB**
 - concepts: OS, High level design ,OOPS,Networks
