@@ -10,7 +10,7 @@ Aspiring Systems & Backend Engineer
 ## 🔧 Technologies & Tools
 - 💻 Languages: **C++,C,Python,SQL**
 - 🛠 Machine Learning:PyTorch, Scikit-Learn, Gymnasium (RL)
-- 📂 Databases: **MySQL, MongoDB**
+- 📂 Databases: **MySQL, MongoDB,FAISS,ChromaDB**
 - concepts: OS, High level design ,OOPS,Networks
 - ☁️ Other Skills: **Git, GitHub, Jira,CloudSim-plus**
 ---
