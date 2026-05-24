@@ -17,6 +17,8 @@ A CS student focused on backend services, data-driven applications, and machine 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KDarshan-K&theme=gotham&hide_border=false)
 
+[![Darshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KDarshan-K&theme=xcode)](https://github.com/KDarshan-K/github-readme-activity-graph)
+
 
 
 ## 🌐 Socials:
