@@ -28,13 +28,6 @@ A CS student focused on backend services, data-driven applications, and machine 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshank2777@gmail.com)
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 # 💻 Tech Stack:
 
