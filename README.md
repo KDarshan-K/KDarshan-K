@@ -1,6 +1,8 @@
+![Header](./your-header-image-name.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DA8F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Darshan)](https://git.io/typing-svg)
 
-![Header](C:\Users\Darshan kagadal\Downloads\github-header-banner.png)
+
 
 
 A CS student focused on backend services, data-driven applications, and machine learning experiments. This README is my GitHub profile overview — it highlights my socials, tech stack, and GitHub activity. Links point to projects and contact methods below.
