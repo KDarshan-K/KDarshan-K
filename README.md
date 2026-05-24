@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DA8F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Darshan)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DA8F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Darshan)](https://git.io/typing-svg)
 
 
 
@@ -9,11 +9,10 @@ A CS student focused on backend services, data-driven applications, and machine 
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <!-- GitHub Readme Stats: replace username value with your GitHub username -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KDarshan-K&show_icons=true&theme=gotham)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KDarshan-K&theme=gotham&hide_border=false)
 
