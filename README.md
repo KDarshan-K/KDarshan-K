@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DA8F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Darshan)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@ A CS student focused on backend services, data-driven applications, and machine 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KDarshan-K&theme=gotham&hide_border=false)
 
-(If these images do not render, make sure the service is reachable and the username parameter matches your GitHub username.)
+
 
 ## 🌐 Socials:
 
@@ -25,7 +25,14 @@ A CS student focused on backend services, data-driven applications, and machine 
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshank2777@gmail.com)
 
-(Consider adding GitHub, Twitter, personal website, or portfolio links if applicable.)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 # 💻 Tech Stack:
 
