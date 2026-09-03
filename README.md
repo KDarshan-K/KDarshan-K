@@ -50,3 +50,26 @@ I work with a variety of languages, frameworks, and tools. Badges below are for 
 - Other tools:
   - Git, GitHub, Postman, Power BI
   - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 🚀 Projects
+
+### 🔎 [FinRAG](https://github.com/KDarshan-K/FinRAG-boxbox)
+AI-powered Finance RAG system for querying financial reports (10-Ks, earnings calls) in plain English.
+- Document ingestion pipeline that extracts, cleans, and semantically chunks unstructured financial filings
+- FAISS vector database for high-dimensional embedding storage and ultra-fast similarity search
+- Live RAG pipeline connecting the vector store to a Groq LLM for grounded, retrieval-based answers
+- **Stack:** Python · LangChain · FAISS · Groq · PyMuPDF
+
+### 📈 [ForexTrendML](https://github.com/KDarshan-K/ForexTrendML-Boxbox)
+End-to-end ML pipeline forecasting USD/INR exchange rate direction using market + macroeconomic data.
+- Automated ingestion of real-time market data and asynchronous macro indicators via REST APIs (FRED, Yahoo Finance)
+- ETL layer handling mismatched time-series frequencies — forward-fills and scaling to merge daily FX prices with monthly economic reports
+- Modular 4-layer architecture separating ingestion, feature engineering, and modeling for scalability
+- **Stack:** Python · Pandas · REST APIs · ETL
+
+### 🚚 [Unified Global Logistics Hub](https://github.com/KDarshan-K/Unified-logistics)
+Full-stack logistics platform with real-time tracking and an AI-powered admin query panel.
+- MongoDB document model achieving sub-2ms query latency (1.66ms avg) for lookups and full collection fetches
+- Geo-based nearest-driver assignment using MongoDB `$near` with a 10km radius, plus live 3-second status polling
+- AI admin panel (Groq/Llama 3.1) that converts plain-English questions into executable MongoDB aggregation pipelines
+- **Stack:** FastAPI · MongoDB · Groq · Jinja2 · Postman  
