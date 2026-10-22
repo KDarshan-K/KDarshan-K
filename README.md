@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DA8F7&center=true&vCenter=true&multiline=true&width=550&lines=Hi%2C+I'm+Darshan+Kagadal+%F0%9F%91%8B;Backend+Systems+%26+Applied+AI%2FML" alt="Typing SVG" />
   </a>
 
+
+
   <p>Final-year CS undergraduate specializing in low-latency backend services, multi-agent LLM orchestration, and deep reinforcement learning.</p>
 
   <a href="https://www.linkedin.com/in/darshankagadal/">
